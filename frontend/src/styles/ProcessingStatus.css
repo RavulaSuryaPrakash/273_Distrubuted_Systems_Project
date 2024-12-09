@@ -1,0 +1,20 @@
+.processing-status {
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 8px;
+    background: #f8f9fa;
+  }
+  
+  .progress-bar {
+    height: 8px;
+    background: #e9ecef;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 10px 0;
+  }
+  
+  .progress-fill {
+    height: 100%;
+    background: #007bff;
+    transition: width 0.3s ease;
+  }
