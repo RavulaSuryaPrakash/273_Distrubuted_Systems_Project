@@ -38,10 +38,13 @@ A comprehensive system designed to summarize and extract key knowledge from docu
 ## 📊 System Design Overview
 
 ### High-Level Architecture
+![image](https://github.com/user-attachments/assets/e95537ce-9d3d-4723-8e8a-8925551f5efa)
 
 ### Data Flow Diagram
+![image](https://github.com/user-attachments/assets/5791ff4f-e75f-44c4-985e-2fa7abd89b4b)
 
 ### Sequence Diagram
+![image](https://github.com/user-attachments/assets/4e74ad1c-953c-462b-9ebc-319d2fc8a88f)
 
 ### Component Design
 - **Client Layer**: Interfaces for web, mobile, and admin access.
